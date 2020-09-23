@@ -1,0 +1,83 @@
+h1 {
+	
+	background-color: #B2BABB ;
+	padding: 5px;
+	text-align: center;
+	
+}
+
+
+
+
+
+.box {
+	
+	margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  
+    background-image: url("https://cdn.pixabay.com/photo/2016/09/06/16/30/starfish-1649495__340.jpg");
+    background-repeat: no-repeat;
+	background-size: cover;
+
+    margin-top:100px
+}
+
+.box-img {
+	
+
+    border-radius: 50%;
+    width: 90px;
+	height:auto;
+	
+}
+
+body {
+	
+	margin: 0;
+	padding: 0;
+	background-color: #688492;  
+}
+
+
+h3 {
+	
+	text-align: center;
+	color: #E2F3F1;
+	
+}	
+
+
+#email {
+	
+	margin-top: 0px;
+	margin-left:300px;
+}
+	
+#phone {
+	
+	margin-top: -20px;
+	margin-left:200px;
+}	
+	
+#facebook {
+	
+	margin-top: -90px;
+	margin-left:400px;
+	
+}
+	
+#linkedin {
+	
+	margin-top: -20px;
+	margin-left:300px;
+	
+}	
+	
+	
+	
+	
+	
+	
+	
